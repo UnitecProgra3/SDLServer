@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1377230343 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/SDL server/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDL/SDL_net.h"
+
+1377230343 et.h"
+
+1379328307 source:c:\users\turupawn\desktop\cliente serv\sdl server\main.cpp
+	<stdlib.h>
+	<unistd.h>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	<string>
+
+1379328307 
+
+1379660545 source:/home/turupawn/Desktop/Cliente serv/SDL server/main.cpp
+	<stdlib.h>
+	<unistd.h>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	"SDL/SDL_image.h"
+	<string>
+	<iostream>
+
+1394561753 source:/home/turupawn/Projects/Codeblocks/SDL server/main.cpp
+	<stdlib.h>
+	<unistd.h>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	"SDL/SDL_image.h"
+	<string>
+	<iostream>
+
+1394561753 source:/media/turupawn/4d926b76-57e4-478c-b4eb-bdde7593ca80/home/turupawn/Projects/Codeblocks/Clases/test/SDL server/main.cpp
+	<stdlib.h>
+	<unistd.h>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	"SDL/SDL_image.h"
+	<string>
+	<iostream>
+
+1394561753 source:/home/turupawn/Projects/Codeblocks/Clases/Cliente servidor bueno/test/SDL server/main.cpp
+	<stdlib.h>
+	<unistd.h>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	"SDL/SDL_image.h"
+	<string>
+	<iostream>
+
